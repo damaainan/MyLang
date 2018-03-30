@@ -1,2 +1,3 @@
 *.exe
 CMakeLists.txt
+*.class
