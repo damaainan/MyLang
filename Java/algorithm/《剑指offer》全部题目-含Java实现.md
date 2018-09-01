@@ -2825,7 +2825,7 @@ public class Solution {
  
 
 
-[0]: https://img0.tuicool.com/BVFbYr2.png 
-[1]: https://img1.tuicool.com/VzEruqa.png 
-[2]: https://img1.tuicool.com/MVJNVre.png 
-[3]: https://img0.tuicool.com/ZVFVRfR.png 
+[0]: ./img/BVFbYr2.png 
+[1]: ./img/VzEruqa.png 
+[2]: ./img/MVJNVre.png 
+[3]: ./img/ZVFVRfR.png 
